@@ -4,42 +4,53 @@
 
 一个运行在 windows10/11 上的时间和任务管理小工具。
 
+展开全部界面
+![not exist](./figures/ui-01.jpg)
+
 ### 功能
 
-- 点击 `pushL`
-- 点击 `pushR`
+本工具的主要功能包括时间管理、代办管理和纯文本“卡片式”存储。
+
+- 不同的界面可以自由的组合
+- 可以对标记的文本进行一定的渲染
 
 #### 时间管理界面
 
-#### 存储面板界面
+- 计时器可以开始、停止、重置
+- 计时器1。统计每天工作时间，单位分钟，分别记录上午、下午、晚上的工作时间
+- 计时器2和计时器3。正计时工具，可设置不同的时间阈值。时间达到阈值后会自动闪烁。
+- 3个计时器可自由组合
+
+![not exist](./figures/ui-10.jpg)
+
+![not exist](./figures/ui-12.jpg)
+
+![not exist](./figures/ui-13.jpg)
+
+![not exist](./figures/ui-09.jpg)
+
+![not exist](./figures/ui-02.gif)
 
 #### 代办事项界面
 
-![](./figures/ui-01.jpg)
+- 可以打开或者关闭全部7个代办事项
+- 显示1个代办事项
+- 显示2个代办事项
+- 依次类推，最多显示7个代办事项
 
-![](./figures/ui-02.jpg)
+![not exist](./figures/ui-05.jpg)
 
-![](./figures/ui-03.jpg)
+![not exist](./figures/ui-06.jpg)
 
-![](./figures/ui-04.jpg)
+![not exist](./figures/ui-07.jpg)
 
-![](./figures/ui-05.jpg)
+#### 存储面板界面
 
-![](./figures/ui-06.jpg)
+一个纯文本“卡片式”存储功能
 
-![](./figures/ui-07.jpg)
+![not exist](./figures/ui-03.jpg)
 
-![](./figures/ui-08.jpg)
-
-![](./figures/ui-09.jpg)
-
-![](./figures/ui-10.jpg)
-
-![](./figures/ui-11.jpg)
-
-![](./figures/ui-12.jpg)
-
-![](./figures/ui-13.jpg)
+![not exist](./figures/ui-04.jpg)
 
 ### 安装
 
